@@ -4,7 +4,7 @@ public class BoxingProgramme {
 
 	public static void main(String[] args) {
 		  int a = 10;
-	        Integer boxed = Integer.valueOf(a); // manual boxing
+	        Integer boxed = Integer.valueOf(a); 
 
 	        System.out.println("Primitive: " + a);
 	        System.out.println("Boxed: " + boxed);
@@ -12,5 +12,6 @@ public class BoxingProgramme {
 
 
 	}
+
 
 
